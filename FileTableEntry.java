@@ -15,4 +15,5 @@ public class FileTableEntry {
 	if ( mode.compareTo( "a" ) == 0 )
 	    seekPtr = inode.length;
     }
+    //edit
 }
